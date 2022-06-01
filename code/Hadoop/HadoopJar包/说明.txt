@@ -1,0 +1,9 @@
+登陆集群2019st10之后，cd到workspace/jars文件夹下，然后依次使用以下命令运行程序：
+task1	hadoop jar task1.jar data task1out_hadoop
+task2	hadoop jar task2.jar task1out_hadoop task2out_hadoop
+task3	hadoop jar task3.jar task2out_hadoop task3out_hadoop
+task4	hadoop jar task4.jar task3out_hadoop task4out_hadoop
+task5	hadoop jar task5.jar task2out_hadoop task5out_hadoop
+task6_1	hadoop jar task6_1.jar task4out_hadoop/Data30 task6_1out_hadoop
+task6_2	hadoop jar task6_2.jar task5out_hadoop/Data15 task6_2out_hadoop
+

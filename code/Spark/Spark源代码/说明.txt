@@ -1,0 +1,1 @@
+src为Spark的源代码的根目录，将其加到IntelliJ IDEA或者Scala-IDE中并配置好相应的环境就可以直接运行（需要修改输入输出的文件路径）

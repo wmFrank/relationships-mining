@@ -15,3 +15,7 @@ This repo contains both Hadoop and Spark implement of mining and analynizing cha
 - visualize the results with [gephi](https://gephi.org/)
 
 ## Results
+Graph of characters' relationships
+
+| <img src="https://user-images.githubusercontent.com/30235642/177063489-16a6f282-4db0-42a7-8f66-8bb8202a906e.png" width="500" height="350"/> | <img src="https://user-images.githubusercontent.com/30235642/177063493-54e8593d-c7aa-4a4d-90f2-ea19d7c5dfbb.png" width="500" height="350"/> | 
+| ----------- | ----------- |
